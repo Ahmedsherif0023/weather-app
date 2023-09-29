@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.xxx {
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.App_name {
+  width: 250px;
+  height: 45px;
+  margin: auto;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  border-radius: 42px;
+  background-image: linear-gradient(
+    180deg,
+    rgba(6, 63, 121, 1) 0%,
+    rgba(10, 59, 108, 1) 85%
+  );
+}
